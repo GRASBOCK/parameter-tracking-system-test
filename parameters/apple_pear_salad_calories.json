@@ -1,0 +1,8 @@
+{
+    "name": "Apple Pear Salad Calories",
+    "description": "The kcal contained in 100g of a apple + pear salad (50-50) ratio",
+    "unit_id": "kcal",
+    "value": 76.5, 
+    "source": "", 
+    "function": "(pear_calories + apple_calories)/2"
+}

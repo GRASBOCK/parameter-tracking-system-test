@@ -1,0 +1,8 @@
+{
+    "name": "Data transfer rate",
+    "description": "",
+    "unit_id": "MBps",
+    "value": 1.2, 
+    "source": "", 
+    "function": null
+}

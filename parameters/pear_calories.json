@@ -1,0 +1,8 @@
+{
+    "name": "Standard Pear Calories",
+    "description": "The kcal contained in 100g of a pear",
+    "unit_id": "kcal",
+    "value": 101,
+    "source": "https://www.nutritionix.com/food/pear",
+    "function": null
+}

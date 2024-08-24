@@ -1,0 +1,5 @@
+{
+    "name": "MegaBytes per Second",
+    "short": "MB/s",
+    "datatype": "Decimal"
+}

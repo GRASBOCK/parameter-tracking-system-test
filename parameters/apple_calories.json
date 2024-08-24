@@ -1,0 +1,8 @@
+{
+    "name": "Standard Apple Calories",
+    "description": "The kcal contained in 100g of an apple",
+    "unit_id": "kcal",
+    "value": 52,
+    "source": "https://www.nutritionix.com/food/apple/100-g",
+    "function": null
+}
